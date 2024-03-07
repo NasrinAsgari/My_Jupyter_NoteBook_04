@@ -3,7 +3,7 @@ This is a test.
 
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/NasrinAsgari/My_Jupyter_NoteBook_04/HEAD?filepath=index.ipynb)
+[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/NasrinAsgari/My_Jupyter_NoteBook_04/HEAD?filepath=Test.ipynb)
 
 A Binder-compatible repo with an `environment.yml` file.
 
